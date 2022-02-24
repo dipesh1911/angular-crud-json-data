@@ -1,37 +1,23 @@
 {
-  "employees": [
+  "employeelist": [
     {
-      "id": 1,
-      "name": "Mark",
+      "employeename": "Dipesh",
+      "email": "d@gmail.com",
+      "department": "IT",
+      "joiningdate": "2022-02-23T18:30:00.000Z",
       "gender": "Male",
-      "contactPreference": "Email",
-      "email": "mark@pragimtech.com",
-      "dateOfBirth": "1988/10/25",
-      "department": "3",
-      "isActive": true,
-      "photoPath": "assets/images/mark.png"
+      "salary": 2345,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Mary",
-      "gender": "Female",
-      "contactPreference": "Phone",
-      "phoneNumber": 2345978640,
-      "dateOfBirth": "1979/11/20",
-      "department": "2",
-      "isActive": true,
-      "photoPath": "assets/images/mary.png"
-    },
-    {
-      "id": 3,
-      "name": "John",
+      "employeename": "Jayesh",
+      "email": "dpatadiya934@rku.ac.in",
+      "department": "Account",
+      "joiningdate": "2022-02-10T18:30:00.000Z",
       "gender": "Male",
-      "contactPreference": "Phone",
-      "phoneNumber": 5432978640,
-      "dateOfBirth": "1976/3/25",
-      "department": "3",
-      "isActive": false,
-      "photoPath": "assets/images/john.png"
+      "salary": 34,
+      "id": 2
     }
   ]
+
 }
